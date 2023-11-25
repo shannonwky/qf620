@@ -34,7 +34,7 @@ Suppose on 1-Dec-2020, we need to evaluate an exotic European derivative expirin
    <img width="209" alt="Screenshot 2023-11-25 at 2 11 28 PM" src="https://github.com/shannonwky/qf620/assets/151988516/c151d8b5-8e0c-42c5-a2f6-0a1c3b91d8a3">
 
 2. “Model-free” integrated variance:
-   ![Equation](<img width="158" alt="Screenshot 2023-11-25 at 2 12 24 PM" src="https://github.com/shannonwky/qf620/assets/151988516/f3ec8a7e-0cb6-4a2d-89f3-bd84e4d29074">)
+   <img width="158" alt="Screenshot 2023-11-25 at 2 12 24 PM" src="https://github.com/shannonwky/qf620/assets/151988516/f3ec8a7e-0cb6-4a2d-89f3-bd84e4d29074">
 
 Determine the price of these 2 derivative contracts if we use:
 1. Black-Scholes model (what σ should we use?)
