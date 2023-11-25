@@ -43,7 +43,8 @@ Determine the price of these 2 derivative contracts if we use:
 
 ## Part IV: Dynamic Hedging
 Suppose S0 = $100, σ = 0.2, r = 5%, T = 1/12 year, i.e. 1 month, and K = $100. Use a Black-Scholes model to simulate the stock price. Suppose we sell this at-the-money call option, and we hedge N times during the life of the call option. Assume there are 21 trading days over the month. The dynamic hedging strategy for an option is:
-   ![Equation](<img width="454" alt="Screenshot 2023-11-25 at 2 13 39 PM" src="https://github.com/shannonwky/qf620/assets/151988516/04c72dbf-2484-4455-9faf-5b5c87b7d410">)
+
+<img width="454" alt="Screenshot 2023-11-25 at 2 13 39 PM" src="https://github.com/shannonwky/qf620/assets/151988516/04c72dbf-2484-4455-9faf-5b5c87b7d410">
 
 Work out the hedging error of the dynamic delta hedging strategy by comparing the replicated position based on φ and ψ with the final call option payoff at maturity. Use 50,000 paths in your simulation, and plot the histogram of the hedging error for N = 21 and N = 84.
 
